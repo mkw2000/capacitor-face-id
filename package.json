@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-face-id",
-  "version": "1.0.5",
+  "name": "capacitor-biometric",
+  "version": "1.0.3",
   "description": "Allow users to authenticate with Face ID or Touch ID on iOS devices",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -13,12 +13,12 @@
     "docs": "typedoc --out docs src"
   },
   "author": {
-    "name": "Daniel Sogl",
-    "email": "mytechde@outlook.com",
-    "url": "https://github.com/danielsogl"
+    "name": "Michael Weiner",
+    "email": "michaelkweiner@gmail.com",
+    "url": "https://github.com/mkw2000/capacitor-face-id"
   },
   "license": "MIT",
-  "homepage": "https://danielsogl.github.io/capacitor-face-id/",
+  "homepage": "https://github.com/mkw2000/capacitor-face-id",
   "dependencies": {
     "@capacitor/core": "latest"
   },
@@ -45,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielsogl/capacitor-face-id"
+    "url": "https://github.com/mkw2000/capacitor-face-id"
   },
   "bugs": {
-    "url": "https://github.com/danielsogl/capacitor-face-id/issues"
+    "url": "https://github.com/mkw2000/capacitor-face-id/issues"
   }
 }

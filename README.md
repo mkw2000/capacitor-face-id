@@ -12,7 +12,7 @@ Allow users to authenticate with Face ID or Touch ID on iOS devices
 ## Instalation
 
 ```sh
-npm install capacitor-face-id
+npm install capacitor-biometric
 ```
 
 ## iOS Notes
